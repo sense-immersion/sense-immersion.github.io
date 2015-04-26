@@ -124,14 +124,14 @@ module.exports = function(grunt) {
 			theme: {
 				files: [ 'css/theme/source/*.scss', 'css/theme/template/*.scss' ],
 				tasks: 'css-themes'
-			},
-			css: {
-				files: [ 'css/reveal.scss' ],
-				tasks: 'css-core'
-			},
-            html: {
-                files: [ 'index.html']
-            }
+      },
+      css: {
+        files: [ 'css/reveal.scss' ],
+        tasks: 'css-core'
+      },
+      html: {
+        files: [ 'index.html', 'md/*.md' ]
+      }
 		}
 
 	});
