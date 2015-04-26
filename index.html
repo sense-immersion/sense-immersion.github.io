@@ -76,23 +76,7 @@
 					{ src: 'plugin/notes/notes.js', async: true }
 				],
 				keyboard: {
-					13: 'next', // go to the next slide when the ENTER key is presse
-					77: function() { // key pressed `m` to choose modules
-						var items = [];
-						var modules = window.localStorage.modules;
-
-						modules = modules ? JSON.parse(modules) : getModules();
-						for (var key in modules) {
-							var module = modules[key];
-							items.push('<li><input name="' + key + '" type="checkbox" ' + (module ? 'checked="checked" ' : '') + '" /> ' + key + '</li>');
-						};
-						window.localStorage.modules = JSON.stringify(modules);
-
-						var dialog = document.getElementById('dialog');
-						dialog.querySelector('.modules').innerHTML = items.join('');
-						dialog.showModal(); //.show()
-					},
-					32: null // don't do anything when SPACE is pressed (i.e. disable a reveal.js default binding)
+					13: 'next' // go to the next slide when the ENTER key is pressed
 				}
 			});
 		</script>
