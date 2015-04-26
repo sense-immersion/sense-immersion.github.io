@@ -1,4 +1,5 @@
 # Solution
+<!-- .slide: data-transition="zoom" data-background="imgs/kid-in-virtual-world.jpg" -->
 
 ## One app that unlocks:
 
