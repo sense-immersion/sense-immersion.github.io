@@ -1,10 +1,10 @@
 <img src="imgs/SENSE-IMMERSION-LOGO-02-alt-colors.jpg">
 <!-- .slide: style="background-color: white;" -->
 
-------
+---
 
 
-<!-- .slide: data-background="imgs/kid-in-virtual-world.jpg" -->
+<!-- .slide: data-transition="zoom" data-background="imgs/kid-in-virtual-world.jpg" -->
 
 ## <!-- .element: style="text-transform: capitalize;" --> engaging immersive education
 

@@ -1,7 +1,6 @@
-<!-- .slide: data-background="imgs/mass-exodus.png" style="max-width:
-100%" -->
+<img src="imgs/mass-exodus.png" class="stretch" >
 
-------
+---
 
 # Problem
 
