@@ -3,7 +3,8 @@
 - Post secondary: $1/student/year
 - K-12: $0.50/student/year
 - Profitable in year 3 ($1MM)
-- 5 year graph
+
+<img src="imgs/chart.png" style="max-width: 75%; max-height: 65%" >
 
 Notes:
 
