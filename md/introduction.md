@@ -4,7 +4,28 @@
 
 ####  <!-- .element: style="text-transform: capitalize;" --> Matthew Boehlig, Chris Vo, Forough Khadem, Dan Blair, Guy Dugas, Travis Cook, Al, Ben
 
+<!-- Photos of team members -->
 
 ------
 
-## What is a Photosphere?
+## Problem
+
+Notes:
+- why I care? 30 seconds
+- Education is boring in today’s digital world
+- Making it exciting is expensive & difficult - QUOTE
+- Max exodus into virtual worlds, current tech it taking students 
+
+
+------
+
+## Solution
+
+Notes:
+
+Experiential learning 
+
+------
+
+## Offering
+
