@@ -243,3 +243,9 @@ pre[data-line] { padding: 1em; }
   box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
 }
 .caniuse .agents, .caniuse .legend { width: 100% !important; }
+
+
+
+.reveal section img {
+  border: none;
+}
