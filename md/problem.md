@@ -1,8 +1,15 @@
-<!--# Problem-->
-
-<!-- photo: sleeping kids, quote -->
 <!-- .slide: data-background="imgs/mass-exodus.png" style="max-width:
 100%" -->
+
+------
+
+# Problem
+
+- Millennials want engagement
+- Educators challenged by technology
+- Expensive & difficult
+
+<!-- photo: sleeping kids, quote -->
 
 
 Notes:

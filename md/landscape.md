@@ -18,7 +18,7 @@ Notes:
 
 Notes:
 
-- Gamification - Robots & Pencils, Doulingo
+- Gamification - Robots & Pencils - Journey 2050, Doulingo
 - Brightspace - LMS
 - Lyryx - Online Learning and Assessment
 - Campfire Union - VR
