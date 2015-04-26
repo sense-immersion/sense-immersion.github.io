@@ -1,10 +1,18 @@
-# Sense Immersion
+<img src="imgs/SENSE-IMMERSION-LOGO-02-alt-colors.jpg">
 
-## <!-- .element: style="text-transform: capitalize;" --> Interactive Photosphering
+------
 
-####  <!-- .element: style="text-transform: capitalize;" --> Matthew Boehlig, Chris Vo, Forough Khadem, Dan Blair, Guy Dugas, Travis Cook, Al, Ben
 
-<!-- Photos of team members -->
+<!-- .slide: data-background="imgs/kid-in-virtual-world.jpg" -->
+
+## <!-- .element: style="text-transform: capitalize;" --> engaging immersive education
+
+<!-- photo of child inside cell -->
+
+
+Notes:
+
+We are building engaging immersive environments accessible to educators and students using technology they already own.
 
 ------
 
